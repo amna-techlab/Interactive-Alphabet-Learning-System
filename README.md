@@ -1,7 +1,6 @@
 # Interactive Preschool Alphabet Learning App 🎨🔤
 
-A child-friendly, interactive graphical user interface (GUI) desktop application designed to help preschool students learn alphabets through multi-sensory feedback, interactive tracing, and progress tracking.
-
+An interactive GUI-based desktop application designed to help preschool children learn the alphabet through engaging activities, interactive tracing, multimedia feedback, and progress tracking.
 ---
 
 ## 📸 Preview
