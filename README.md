@@ -40,4 +40,4 @@ A child-friendly, interactive graphical user interface (GUI) desktop application
 ### How to Run
 1. Clone this repository:
    ```bash
-   git clone [https://github.com/muzairsajid102/YOUR-REPO-NAME.git](https://github.com/muzairsajid102/YOUR-REPO-NAME.git)
+   
