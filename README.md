@@ -37,7 +37,4 @@ A child-friendly, interactive graphical user interface (GUI) desktop application
 ### Prerequisites
 * Qt Creator installed with a compatible C++ compiler (e.g., MinGW or MSVC).
 
-### How to Run
-1. Clone this repository:
-   ```bash
    
